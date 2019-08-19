@@ -8,6 +8,7 @@ Prerequisite:
 Steps to execute:
   1. Copy the file into your Ubuntu host.
   2. Run the application (script)
-  '''
-  python basic_calculator.py
-  '''
+  ```
+  $ python basic_calculator.py
+  ```
+  3. Done. Now you can enjoy the calculator. Thanks :)
